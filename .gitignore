@@ -1,0 +1,8 @@
+# Build artifacts
+*.o
+csim
+locality
+
+# Debug bundles / OS files
+*.dSYM/
+.DS_Store
